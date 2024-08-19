@@ -109,5 +109,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out to me:
 
 - **Name:** Vedant Pimple
-- **Email:** vedantpimple@example.com
-- **LinkedIn:** [Vedant Pimple](https://www.linkedin.com/in/vedantpimple)
+- **Email:** vedantpimple1775@gmail.com
+- **LinkedIn:** [Vedant Pimple](www.linkedin.com/in/vedant-pimple-523a65228)
