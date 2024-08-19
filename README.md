@@ -12,8 +12,10 @@ This repository contains a Machine Learning-based spam email and SMS classificat
 - [Model Deployment](#model-deployment)
 - [Usage](#usage)
 - [Results](#results)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Project Overview
 
@@ -88,6 +90,12 @@ The trained model and the TF-IDF vectorizer were serialized using `pickle`, allo
 
 The model has demonstrated high accuracy and reliability in classifying messages as spam or not spam. With an accuracy of approximately 98% and a precision of 99%, it provides a robust solution for email and SMS spam detection.
 
+## Preview
+
+Here’s a preview of the web application:
+
+![Screenshot](screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! If you would like to improve the model, add new features, or fix bugs, please feel free to fork the repository and submit a pull request.
@@ -95,3 +103,11 @@ Contributions are welcome! If you would like to improve the model, add new featu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me:
+
+- **Name:** Vedant Pimple
+- **Email:** vedantpimple@example.com
+- **LinkedIn:** [Vedant Pimple](https://www.linkedin.com/in/vedantpimple)
