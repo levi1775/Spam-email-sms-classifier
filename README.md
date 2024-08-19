@@ -94,7 +94,7 @@ The model has demonstrated high accuracy and reliability in classifying messages
 
 Here’s a preview of the web application:
 
-![Screenshot](screenshot.png)
+![Screenshot](app/spam.png)
 
 ## Contributing
 
