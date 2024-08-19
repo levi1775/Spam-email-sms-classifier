@@ -110,4 +110,3 @@ If you have any questions or feedback, feel free to reach out to me:
 
 - **Name:** Vedant Pimple
 - **Email:** vedantpimple1775@gmail.com
-- **LinkedIn:** [Vedant Pimple](www.linkedin.com/in/vedant-pimple-523a65228)
