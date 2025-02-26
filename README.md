@@ -25,8 +25,8 @@ The "Spam Email/SMS Detector" is a Machine Learning project aimed at classifying
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/spam-email-sms-detector.git
-    cd spam-email-sms-detector
+    git clone https://github.com/levi1775/Spam-email-sms-classifier.git
+    cd Spam-email-sms-classifier
     ```
 
 2. Install the required dependencies:
